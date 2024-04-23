@@ -6,7 +6,7 @@ public class Libro {
     private String genero; 
     private int anoPublicacion;
     private boolean leido; 
-
+////////////////////////////////////////// este codigo es de complejidad constante o(1) 
     public Libro(String titulo, String autor, String genero,int anoPublicacion) {
         this.titulo = titulo;
         this.autor = autor;
