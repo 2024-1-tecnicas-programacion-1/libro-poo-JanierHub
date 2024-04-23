@@ -5,7 +5,7 @@ public class Principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        
+        /////////////////////////////////////////////////// Este codigo es de complejidad constante o(1)
         System.out.print("Ingrese el título del libro: ");
         String titulo = scanner.nextLine();
         System.out.print("Ingrese el nombre del autor del libro: ");
